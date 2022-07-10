@@ -1,0 +1,48 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-transform: uppercase;
+    margin: 0%;
+    padding: 0%;
+}
+
+.nav-center{
+    width: 10%;
+    height: 721px;
+    background-color: #ffffff;
+    float: left;
+    position: relative;
+    bottom: 20px;
+    border-right: 3px solid black;
+}
+
+/* h4, a{
+    position: relative;
+    top: 280px;
+    left: 4px;
+}
+
+ul, a{
+    text-decoration: none;
+    color: black;
+    list-style-type: none;
+} */
+
+a:hover{
+    color: rgb(0, 149, 178);
+}
+
+
+.container{
+    text-align: center;
+    position: relative;
+    top: 300px;
+}
+
+#btn{
+    background-color: #ffffff;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    width: 150px;
+    height: 40px;
+    border-radius: 20px;
+    border: 1px solid black;
+}
